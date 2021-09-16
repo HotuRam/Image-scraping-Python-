@@ -1,5 +1,5 @@
 # Image-scraping-Python-
-web scraping (Download multiple images from web by using python)
+## web scraping (Download multiple images from web by using python)
 # KNN
  ### - Here we can download data
 <!-- ![Screenshot](pic.png) -->
