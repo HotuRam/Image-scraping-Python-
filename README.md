@@ -1,11 +1,11 @@
 # Image-scraping-Python-
 ## web scraping (Download multiple images from web by using python)
 <br />
-For window users - open cmd (window command line) <br />
-Create new anaconda environment - <br />
-    $conda create --name web_scraping_new python=3.7 
-    $activate web_scraping_new 
-    $pip install jupyter
+### For window users - open cmd (window command line) <br />
+### Create new anaconda environment - <br />
+         $conda create --name web_scraping_new python=3.7            <br />
+         $activate web_scraping_new                       <br />
+         $pip install jupyter                          <br />
  <br />
  #### here we set up the environment
  <br />
