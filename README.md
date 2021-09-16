@@ -24,6 +24,14 @@
   <img align="left" alt="image" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/crome_version_check.png?raw=true" width="500" height="250" />
     <br />
     <br />
+    
+    
+    
+    
+    
+    
+    
+    
  ## requirements
  
     $pip install -r requirements.txt
