@@ -5,12 +5,12 @@
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
 
-         $conda create --name web_scraping_new python=3.7            <br />
-         $activate web_scraping_new                       <br />
-         $pip install jupyter                          <br />
+         $conda create --name web_scraping_new python=3.7            
+         $activate web_scraping_new                       
+         $pip install jupyter                          
  <br />
  
- #### here we set up the environment
+
  
  <br />
  
@@ -18,7 +18,8 @@
  
     $git clone https://github.com/HotuRam/Image-scraping-Python-
   <br />  
- ## it's time for check the chrome browser version and download the appropriate chromedriver  
+  
+ ## it's time for check the chrome browser version and download the appropriate chromedriver    <br />
      driver download link - https://chromedriver.chromium.org/downloads   <br />
   <br />
   <br />
