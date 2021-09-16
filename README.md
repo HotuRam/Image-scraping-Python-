@@ -9,9 +9,6 @@
          $activate web_scraping_new                       
          $pip install jupyter                          
  <br />
- 
-
- 
  <br />
  
  ## clone the repo.
