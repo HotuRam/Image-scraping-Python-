@@ -1,8 +1,7 @@
 # Image-scraping-Python-
 ## web scraping (Download multiple images from web by using python)
-# KNN
- ### - Here we can download data
-<!-- ![Screenshot](pic.png) -->
+
+For window users - open ### cmd
  <img align="left" alt="GIF" src="https://github.com/HotuRam/KNN/blob/main/pic.png?raw=true" width="600" height="350" />
 <br />
 <br />
