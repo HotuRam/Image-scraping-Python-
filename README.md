@@ -20,7 +20,7 @@
   <br />  
   
  ## it's time for check the chrome browser version and download the appropriate chromedriver    <br />
-     driver download link - https://chromedriver.chromium.org/downloads   <br />
+     driver download link - https://chromedriver.chromium.org/downloads   
   <br />
   <br />
   <br />
