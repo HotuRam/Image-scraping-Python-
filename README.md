@@ -15,7 +15,7 @@ Create new anaconda environment -
  ## it's time for check the chrome browser version and download the appropriate chromedriver
      driver download link - https://chromedriver.chromium.org/downloads
   
-  <img align="left" alt="GIF" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/crome_version_check.png?raw=true" width="600" height="350" />
+  <img align="left" alt="GIF" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/crome_version_check.png?raw=true" width="500" height="250" />
     
  ## requirements
     $pip install -r requirements.txt
