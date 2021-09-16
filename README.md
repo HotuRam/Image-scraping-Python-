@@ -1,15 +1,21 @@
 # Image-scraping-Python-
 ## web scraping (Download multiple images from web by using python)
 <br />
+
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
+
          $conda create --name web_scraping_new python=3.7            <br />
          $activate web_scraping_new                       <br />
          $pip install jupyter                          <br />
  <br />
+ 
  #### here we set up the environment
+ 
  <br />
+ 
  ## clone the repo.
+ 
     $git clone https://github.com/HotuRam/Image-scraping-Python-
   <br />  
  ## it's time for check the chrome browser version and download the appropriate chromedriver  
@@ -21,6 +27,7 @@
     <br />
     <br />
  ## requirements
+ 
     $pip install -r requirements.txt
  
 
