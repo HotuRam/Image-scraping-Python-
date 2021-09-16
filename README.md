@@ -10,7 +10,6 @@
          $pip install jupyter                          
  <br />
  <br />
- 
  ## clone the repo.
  
     $git clone https://github.com/HotuRam/Image-scraping-Python-
