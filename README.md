@@ -39,6 +39,8 @@
   
     $pip install -r requirements.txt
  
+###### Now, open demo.py file and run it...
+
 
 
 <br />
