@@ -25,13 +25,13 @@ DRIVER_PATH = 'chromedriver.exe'
 wd = webdriver.Chrome(executable_path=DRIVER_PATH)
 wd.get('https://google.com')
 search_box = wd.find_element_by_css_selector('input.gLFyf')
-search_box.send_keys('Pandas')   #####Change the name of animal like cat or dog 
+search_box.send_keys('Cats')   #####Change the name of animal like cat or dog 
 wd.quit() # closing the driver
 
 #######################################################################################################
 
 # def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_between_interactions:int=1):
-def fetch_image_urls(query:'Pandas', max_links_to_fetch:5, wd:'instantiated Webdriver', sleep_between_interactions:int=1):
+def fetch_image_urls(query:'Cats', max_links_to_fetch:5, wd:'instantiated Webdriver', sleep_between_interactions:int=1):
 
     # query : Search term, like Dog #####Change the name of animal like cat or dog 
     # max_links_to_fetch : Number of links the scraper is supposed to collect
@@ -108,8 +108,8 @@ def persist_image(folder_path:str,url:str):
         print(f"SUCCESS - saved {url} - as {file_path}")
     except Exception as e:
         print(f"ERROR - Could not save {url} - {e}")
-def search_and_download(search_term:str,driver_path:str,target_path='./images',number_images=10):
-    ################################ image =10 we can change it to 100 or 50 what we want #########
+def search_and_download(search_term:str,driver_path:str,target_path='./images',number_images=50):
+    ################################ images =10 we can change it to 100 or 50 what we want #########
     target_folder = os.path.join(target_path,'_'.join(search_term.lower().split(' ')))
 
     if not os.path.exists(target_folder):
@@ -123,7 +123,7 @@ def search_and_download(search_term:str,driver_path:str,target_path='./images',n
 
 ###################################################################################################
 
-search_term = 'Pandas'   #####Change the name of animal like cat or dog 
+search_term = 'Cats'   #####Change the name of animal like cat or dog 
 search_and_download(
     search_term=search_term,
     driver_path=DRIVER_PATH
