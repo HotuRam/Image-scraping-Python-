@@ -56,7 +56,11 @@
 
  #### time to close above tab...
  
-## Now, we have to open   
+## Now, we have to open image_scraping.py 
+#### Remember we have to change only the searching name (like cats, dogs, panndas, or whatever) 
+  ### so we made it..
+  
+## --------------------------End of the program--------------------------------------
 
  
 ## References-   
