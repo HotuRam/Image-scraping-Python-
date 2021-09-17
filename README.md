@@ -68,7 +68,7 @@
  
 ## Now, open demo.ipynb file and run it...
    ----- select the kernel image_scraping_new           
-         popup is coming allow it
+   ----- popup is coming allow it
          
   #### if everything is ok then we see this crome tab..
   
