@@ -58,7 +58,8 @@
  
 ## Now, we have to open image_scraping.py 
 #### Remember we have to change only the searching name (like cats, dogs, panndas, or whatever) 
-  ### so we made it..
+#### Number of images like (10,20,100) set the count of image...
+  ### so we made it.. and we successfully download 50 images of cat..
   
 ## --------------------------End of the program--------------------------------------
 
