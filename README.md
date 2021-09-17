@@ -26,10 +26,11 @@
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
 
-         conda create --name web_scraping_new python=3.7            
+         conda create --name image_scraping_new python=3.7            
          activate web_scraping_new                       
          pip install jupyter                          
  
+ #### Make sure new kernel is created in anaconda....
  ## clone the repo.
  
       git clone https://github.com/HotuRam/Image-scraping-Python-
