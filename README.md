@@ -56,6 +56,7 @@
  ## requirements-
   ---- copy and paste below code in cmd (make sure you are in correct folder)
   
+      cd Image-scraping-Python-
       pip install -r requirements.txt
  
 ###### Now, open demo.ipynb file and run it...
