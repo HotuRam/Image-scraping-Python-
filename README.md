@@ -74,7 +74,7 @@
 <br />
 
 
-  ### so we made it.. and we successfully download 50 images of cat..
+  ### Congratulations!!! we made it.. and we successfully download 50 images of cat..
   
   
 <img align="left" alt="image" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/images_in_folder.gif?raw=true" width="500" height="250" />
