@@ -66,7 +66,7 @@
       cd Image-scraping-Python-
       pip install -r requirements.txt
  
-###### Now, open demo.ipynb file and run it...
+## Now, open demo.ipynb file and run it...
    ----- select the kernel image_scraping_new
    
   #### if everything is ok then we see this crome tab..
