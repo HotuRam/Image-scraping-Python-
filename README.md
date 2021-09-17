@@ -53,7 +53,7 @@
     -- for this chrome-version driver already in ripo. so we are free to go.
 
  ## requirements-
-  ----copy and paste below code in cmd
+  ---- copy and paste below code in cmd (make sure you are in correct folder)
   
       pip install -r requirements.txt
  
