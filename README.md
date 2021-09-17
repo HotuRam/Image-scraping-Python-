@@ -1,7 +1,6 @@
 # Image-scraping-Python-
 ## web scraping (Download multiple images from web by using python)
 <br />
-
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
 
