@@ -30,24 +30,10 @@
 <br />    
 <br /> 
 <br />
-<br />    
+<br />   
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+#### double tap for clear image
+
  ## requirements
     $pip install -r requirements.txt
  
@@ -69,13 +55,6 @@
 <br />
 <br />
 
-
-
-###  - Insights of code
-<br />
-
-![Screenshot](code.gif)
-
 ## References-
 
-gif making form -https://hnet.com/video-to-gif/
+<!-- gif making form -https://hnet.com/video-to-gif/ -->
