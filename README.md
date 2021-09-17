@@ -55,6 +55,7 @@
 
  ## requirements-
   ---- copy and paste below code in cmd (make sure you are in correct folder)
+       make sure you are in repo. folder (do check path in cmd)
   
       cd Image-scraping-Python-
       pip install -r requirements.txt
