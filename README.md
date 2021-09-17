@@ -19,6 +19,11 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
@@ -98,7 +103,7 @@
   
 <br />
 
-<img align="left" alt="image" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/images_in_folder.gif?raw=true" width="500" height="250" />
+<img align="left" alt="image" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/images_in_folder.gif?raw=true" width="800" height="450" />
 
 
 <br />
@@ -112,6 +117,12 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
   
 ## --------------------------End of the program--------------------------------------
 
