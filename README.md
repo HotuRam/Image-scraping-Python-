@@ -37,7 +37,7 @@
          pip install jupyter   
          
  
- #### Make sure new kernel is created in anaconda....
+
  ## clone the repo.
  
       git clone https://github.com/HotuRam/Image-scraping-Python-
