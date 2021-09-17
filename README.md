@@ -1,7 +1,7 @@
 # Image-scraping-Python-
 ## web scraping (Download multiple images from web by using python)
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/polorbear.gif?raw=true" width="600" height="350" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/polorbear.gif?raw=true" width="800" height="450" />
 <br />
 <br />
 <br />
@@ -11,6 +11,10 @@
 <br />
 <br />    
 <br /> 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
