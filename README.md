@@ -28,11 +28,11 @@
 
          conda create --name image_scraping_new python=3.7
          
-    ##### Activate the environment
+ ##### Activate the environment
     
          conda activate image_scraping_new
          
-    ##### Install jupyter
+ ##### Install jupyter
          
          pip install jupyter   
          
