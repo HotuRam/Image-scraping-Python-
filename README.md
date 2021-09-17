@@ -28,7 +28,9 @@
 
          conda create --name image_scraping_new python=3.7  
          conda activate image_scraping_new
-         pip install jupyter                          
+         y
+         pip install jupyter   
+         y
  
  #### Make sure new kernel is created in anaconda....
  ## clone the repo.
