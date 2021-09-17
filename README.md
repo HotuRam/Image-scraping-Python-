@@ -36,6 +36,7 @@
 
  ## requirements-
   ----copy and paste below code in cmd
+  
     $pip install -r requirements.txt
  
 
