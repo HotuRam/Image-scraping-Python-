@@ -30,9 +30,9 @@
 <br />    
 <br /> 
 <br />
-<br />   
-
-#### double tap for clear image
+  
+#### double tap for clear image 
+    -- for this version driver already in ripo. so we are free to go.
 
  ## requirements
     $pip install -r requirements.txt
