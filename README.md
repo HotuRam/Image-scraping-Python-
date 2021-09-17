@@ -32,9 +32,10 @@
 <br />
   
 #### double tap for clear image 
-    -- for this version driver already in ripo. so we are free to go.
+    -- for this chrome-version driver already in ripo. so we are free to go.
 
- ## requirements
+ ## requirements-
+  ----copy and paste below code in cmd
     $pip install -r requirements.txt
  
 
