@@ -36,7 +36,7 @@
       pip install -r requirements.txt
  
 ###### Now, open demo.ipynb file and run it...
-  if everything is ok then we see this crome tab..
+  #### if everything is ok then we see this crome tab..
   
   <img align="left" alt="image" src="https://github.com/HotuRam/Image-scraping-Python-/blob/main/screenshots/crome_tab.png?raw=true" width="500" height="250" />
 
